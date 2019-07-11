@@ -1,0 +1,12 @@
+{
+  "name": "process-image-s3",
+  "version": "1.0.0",
+  "description": "process-image-s3",
+  "main": "handler.js",
+  "author": "Gadiel Kalleb",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.488.0",
+    "sharp": "^0.22.1"
+  }
+}
